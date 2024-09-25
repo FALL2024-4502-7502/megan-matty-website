@@ -12,3 +12,8 @@
   font-style: normal;
   color:#663399;
 }
+
+.center {
+    display: flex;
+    justify-content: center;
+}
