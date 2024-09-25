@@ -1,6 +1,6 @@
    .roboto-bold {
   font-family: "Roboto", system-ui;
-  font-weight: 1000;
+  font-weight: 9000;
   font-style: normal;
   color: #663399;
 }
@@ -18,6 +18,7 @@
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
+  color:#663399;
 }
 .background-color {
 background-color: ##ccccff;
