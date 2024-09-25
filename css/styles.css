@@ -11,3 +11,12 @@ img {
         align-items: center;
         width: 50%;
     }
+
+.picture-centered a img {
+
+  margin: auto;
+    max-width: 200px;
+    
+    
+
+}
