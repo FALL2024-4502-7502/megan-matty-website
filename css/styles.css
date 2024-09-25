@@ -1,21 +1,14 @@
    .roboto-bold {
   font-family: "Roboto", system-ui;
-  font-weight: 800;
+  font-weight: 900;
   font-style: normal;
-  color: orange;
+  color: #663399;
 }
-}
 
-img {
-        align-items: center;
-        width: 50%;
-    }
-
-.picture-centered a img {
-
-  margin: auto;
-    max-width: 200px;
-    
-    
-
+.roboto-slab{
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color:#663399;
 }
