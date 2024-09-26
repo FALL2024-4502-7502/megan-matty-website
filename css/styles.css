@@ -35,7 +35,10 @@ div {
   text-align: center;
   }
 
-list-style-type: none;
+nav ul li {
+    list-style-type: none;
+}
+
 
 
 
