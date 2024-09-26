@@ -39,13 +39,16 @@ nav ul li {
     list-style-type: none;
 }
 
-nav ul li a:visited {
+nav ul li:visited {
     text-decoration: none;
     color: #ffcc00;
 }
 
 
+
 main ul li {
     list-style-type: none;
 }
+
+
 
