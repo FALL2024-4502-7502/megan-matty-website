@@ -39,6 +39,10 @@ nav ul li {
     list-style-type: none;
 }
 
+nav ul li a:visited {
+    text-decoration: none;
+    color: #ffcc00;
+}
 
 
 
