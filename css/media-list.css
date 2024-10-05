@@ -77,21 +77,6 @@ a {
 }
 
 
-.anchor-nav a {
-  color: #ffe3aa;
-}
-
-
-body {
-  background-color: rgba(229, 172, 103, 0.5);
-  overflow: scroll; /* Show scrollbars */
-}
-
-
-.swap-example {
-  background-image: url(../img/crab.png);
-}
-
 main {
   max-width: 800px;
   margin: auto;
