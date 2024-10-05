@@ -89,16 +89,6 @@ p {
 /*  font-size: 1rem;*/
 }
 
-
-
-
-footer {
-  font-family: 'Playfair Display', serif;
-  font-weight: 100;
-  color: seagreen;
-/*  background-color: whitesmoke;*/
-  max-width: 800px;
-  margin: auto;
   
 
 }
@@ -117,7 +107,6 @@ h2 {
 h3 {
   font-family: 'IBM+Plex', monospace;
 
-/*This is a note*/
 }
 
 
@@ -132,41 +121,6 @@ p {
 }
 
 
-/*Photo gallery css for gallery-test*/
-
-.gallery-example {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-}
-
-
-
-
-
-.button_holder {
-  display: flex;
-  flex-direction: row;
-}
-
-button_next {  }
-button_previous {  }
-
-.stepper {  }
-
-button {
-  background-color: orange;
-  margin: 1rem;
-  padding: 1rem;
-  min-width: 10rem;
-  font-size: 1.2rem;
-  border-radius: 0.5rem;
-}
-
-.button-start {
-/*  background-color: forestgreen;*/
-}
 
 .gallery-image {
   max-width: 80%;
