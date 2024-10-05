@@ -20,6 +20,14 @@
   font-style: normal;
   color:#663399;
 }
+
+.kanit-bold {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color:#663399;
+}
+
 .background-color {
 background-color: #f2e9fa;
 }
