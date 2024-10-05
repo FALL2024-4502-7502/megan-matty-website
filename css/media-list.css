@@ -88,70 +88,6 @@ body {
 }
 
 
-nav {
-
-  background-color: ;
-  max-width: 800px;
-  margin: auto;
-  font-size: 1rem;
-  border-radius: 0.2rem;
-  text-transform: uppercase;
-}
-
-nav ul {
-  display: flex;
-  align-items: stretch;
-  flex-direction: row;
-  justify-content: right;
-
-  
-}
-
-nav ul li {
-
-  background-color: whitesmoke;
-  flex-flow: row wrap;
-  align-items: stretch;
-  list-style-type: none;
-  padding: 0.3rem;
-  margin: 0.1rem;
-  max-width: 100%;
-  border-radius: 0.5rem;
-  border: 1px solid rgba(127,255,0,0.5);
-  border: 5px solid rgba(127,255,0,0.5);
-}
-
-nav ul li a {
-  font-family: 'Solway', serif;
-/*  font-family: "Pixelify Sans", sans-serif;*/
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
-
-  text-decoration: none;
-  color: forestgreen;
-}
-
-nav ul li a:visited {
-  text-decoration: none;
-  color: forestgreen;
-}
-
-nav ul li a:hover {
-  text-decoration: ;
-  color: blue;
-}
-
-
-a:visited {
-  color: black;
-  text-decoration-color: hotpink;
-  
-}
-
-a:hover {
-
-}
 .swap-example {
   background-image: url(../img/crab.png);
 }
@@ -637,30 +573,6 @@ background-color: rgba(218,165,32,0.5);
   width: 100%;
   max-width: 700px;
   
-
-
-}
-*/
-.intro {
-  background-color: skyblue;
-}
-
-
-.scifi-intro {
-  margin: 1rem;
-  padding: 1rem;
-  background-color: #fafad2;
-  border-radius: 1rem;
-}
-
-/*.scifi-intro h2 {
-  margin: 0rem;
-  padding: 0rem;
-}
-.scifi-intro p {
-  
-}*/
-
 
 /*start of media queries*/
 @media screen and (max-width: 500px){
