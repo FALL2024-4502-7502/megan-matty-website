@@ -85,7 +85,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  box-shadow: inset 0.1rem 1rem ##ccccff;
+  box-shadow: inset 0.1rem 1rem #ccccff;
   border-radius: 3px;
 }
 
