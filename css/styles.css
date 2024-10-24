@@ -45,38 +45,12 @@ div {
   text-align: center;
   }
 
-nav {
 
-  background-color: ;
-  max-width: 800px;
-  margin: auto;
-  font-size: 1rem;
-  border-radius: 0.2rem;
-  text-transform: uppercase;
 
-nav ul {
-  display: flex;
-  align-items: stretch;
-  flex-direction: row;
-  justify-content: right;
-
-  
-}
 
 
 nav ul li {
     list-style-type: none;
-    background-color: whitesmoke;
-    flex-flow: row wrap;
-    align-items: stretch;
-    padding: 0.3rem;
-    margin: 0.1rem;
-    max-width: 100%;
-    border-radius: 0.5rem;
-    border: 1px solid rgba(127,255,0,0.5);
-    border: 5px solid rgba(127,255,0,0.5);
-}
-
 }
 
 nav ul li a:visited {
@@ -84,18 +58,6 @@ nav ul li a:visited {
     color: #ffcc00;
 }
 
-
-nav ul li{
-    list-style-type: none;
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
-
-    text-decoration: none;
-    color: #663399;
-    
-}
 
 
 body ul li {
