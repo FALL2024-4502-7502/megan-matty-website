@@ -32,6 +32,19 @@
 background-color: #f2e9fa;
 }
 
+input {
+  margin-top: 0.5rem;
+}
+
+input::placeholder {
+  font-family: "Kanit", sans-serif;
+  font-weight: bold;
+  opacity: 0.5;
+  color: #663399;
+}
+
+
+
 img {
   display: block;
   margin-left: auto;
