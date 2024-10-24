@@ -54,6 +54,14 @@ nav {
   border-radius: 0.2rem;
   text-transform: uppercase;
 
+nav ul {
+  display: flex;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: right;
+
+  
+}
 
 
 nav ul li {
