@@ -41,3 +41,23 @@ previousButton.addEventListener('click', function() {
   photoNumber.innerHTML = (currentPhotoNumber + 1) + " / " + photoDivs.length;
 
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
