@@ -39,6 +39,17 @@ background-color: #f2e9fa;
 }
 
 
+.gallery-image{
+
+  max-width: 80%;
+
+
+}
+
+.gallery-image img{
+  width:100%;
+}
+
 button {
   background-color: red;
   margin: 1rem;
