@@ -87,8 +87,8 @@ nav ul li {
   margin: 0.1rem;
   max-width: 100%;
   border-radius: 0.5rem;
-  border: 3px dotted; #993399;
-  border: 10px solid #333399;
+  border: 3px dotted #993399;
+  border: 6px dotted #333399;
 }
 
 
