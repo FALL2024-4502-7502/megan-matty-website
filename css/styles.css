@@ -120,7 +120,7 @@ nav ul li {
   max-width: 100%;
   border-radius: 0.5rem;
   border: 3px  #993399;
-  border: 6px  #333399;
+  border: 6px solid; #333399;
 }
 
 
