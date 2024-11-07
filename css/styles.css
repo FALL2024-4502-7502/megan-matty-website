@@ -54,17 +54,14 @@ background-color: #f2e9fa;
 
 
 button {
-  background-color: white;
+  background-color: #333399;
   margin: 1rem;
   padding: 1rem;
   min-width: 10rem;
   font-size: 1.2rem;
+  font color: white;
   border-radius: 0.5rem;
 }
-
-.button_holder {
-  display: flex;
-  flex-direction: row;
 
 
 
