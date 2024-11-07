@@ -40,14 +40,19 @@ background-color: #f2e9fa;
 
 
 .gallery-image{
+
   max-width: 80%;
-  align-items: center;
 
 
 }
 
+.gallery-center{
+  align-items: center;
+}
+
 .gallery-image img{
   width:100%;
+
 }
 
 
