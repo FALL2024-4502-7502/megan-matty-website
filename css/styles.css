@@ -46,8 +46,13 @@ background-color: #f2e9fa;
 
 }
 
-.gallery-center{
-  align-items: center;
+.gallery-photo img {
+  display: flex;
+    max-width:230px;
+    max-height:95px;
+  width: auto;
+    height: auto;
+    margin: 1rem;
 }
 
 .gallery-image img{
@@ -57,7 +62,7 @@ background-color: #f2e9fa;
 
 figcaption{
   color: white;
-  
+
 }
 
 
