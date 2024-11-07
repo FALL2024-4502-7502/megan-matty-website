@@ -101,7 +101,7 @@ img {
 
 nav {
 
-  background-color: #80bfff;
+  background-color: #e0e0ff;
   max-width: 800px;
   margin: auto;
   font-size: 1rem;
@@ -120,7 +120,7 @@ nav ul {
 
 nav ul li {
 
-  background-color: white;
+  background-color: #80bfff;
   flex-flow: row wrap;
   align-items: stretch;
   list-style-type: none;
