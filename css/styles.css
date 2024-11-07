@@ -47,9 +47,7 @@ background-color: #f2e9fa;
 }
 
 .gallery-photo img {
-  display: flex;
-    max-width:230px;
-    max-height:95px;
+  display: center;
   width: auto;
     height: auto;
     margin: 1rem;
