@@ -39,6 +39,17 @@ background-color: #f2e9fa;
 }
 
 
+.gallery-image{
+
+  max-width: 80%;
+
+}
+
+.center-photo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .center-image{
   display: block;
@@ -51,9 +62,6 @@ background-color: #f2e9fa;
 .gallery-image img{
   align-content: center;
   width:100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
 }
 
