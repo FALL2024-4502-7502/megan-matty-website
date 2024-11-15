@@ -49,13 +49,13 @@ background-color: #f2e9fa;
 .center-image{
   display: block;
   align-content: center;
-}
-
-.gallery-image img{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+
+.gallery-image img{
+  width:100%;
 
 }
 
