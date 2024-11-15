@@ -76,7 +76,11 @@ figcaption{
   text-align: left;
   margin-left: auto;
   margin-right: auto;
+    display: block;
+    unicode-bidi: isolate;
 }
+
+
 
 
 
@@ -302,4 +306,4 @@ main {
   max-width: 25%;
   margin:auto;
 }
-}
+
