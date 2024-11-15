@@ -49,6 +49,7 @@ background-color: #f2e9fa;
   align-items: center;
   max-width: 75%;
   max-height: 75%;
+  display: block;
 }
 
 .center-image{
