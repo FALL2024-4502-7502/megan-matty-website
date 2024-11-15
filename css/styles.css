@@ -41,12 +41,7 @@ background-color: #f2e9fa;
 
 .gallery-image{
   max-width: 80%;
-  display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 40px;
-    margin-inline-end: 40px;
-    unicode-bidi: isolate;
+
 }
 
 .center-photo{
