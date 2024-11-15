@@ -89,6 +89,16 @@ button {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  background-color: #e7f3ff;
+  flex-flow: row wrap;
+  align-items: stretch;
+  list-style-type: none;
+  padding: 0.3rem;
+  margin: 0.1rem;
+  max-width: 100%;
+  border-radius: 0.5rem;
+  border: 3px  #993399;
+  border: 6px solid #333399;
 
 }
 
