@@ -65,7 +65,9 @@ figcaption{
   font-weight: 500;
   font-style: normal;
   color:#663399;
-  text-align: center;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
