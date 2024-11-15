@@ -51,7 +51,7 @@ background-color: #f2e9fa;
   align-content: center;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+
 }
 
 .gallery-image img{
@@ -60,7 +60,12 @@ background-color: #f2e9fa;
 }
 
 figcaption{
-  color: black;
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color:#663399;
+  text-align: center;
 }
 
 
