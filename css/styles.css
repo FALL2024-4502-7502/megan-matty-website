@@ -135,6 +135,11 @@ img {
   justify-content: center;
   }
 
+.left{
+  text-align: left;
+  justify-content: center;
+  }
+
 nav {
 
   background-color: #e0e0ff;
