@@ -50,6 +50,7 @@ background-color: #f2e9fa;
   max-width: 75%;
   max-height: 75%;
   display: block;
+  margin: auto;
 }
 
 .center-image{
