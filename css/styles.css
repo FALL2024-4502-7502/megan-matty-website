@@ -63,6 +63,7 @@ background-color: #f2e9fa;
 .gallery-image img{
   align-content: center;
   width:100%;
+  margin: auto;
 
 }
 
