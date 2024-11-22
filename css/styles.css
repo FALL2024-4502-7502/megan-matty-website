@@ -33,6 +33,16 @@
 background-color: #f2e9fa;
 }
 
+.skip-link {
+  position: absolute;
+  top: -3em;
+  background: #f2e9fa;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+
 
 .hideThis {
   display:none;
